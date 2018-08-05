@@ -1,0 +1,36 @@
+body {
+  background-color: yellow;
+  font-size: 40px;
+  text-align: center;
+  font-family: fantasy;
+}
+
+h1 {
+  color: #f7325e;
+}
+h2 {
+  color: #7dc410
+}
+.tropical {
+  color: red;
+}
+.popular {
+  color: black
+}
+.box {
+  border: 1px solid;
+  padding: 1px;
+  margin: 110px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+  font-size: 50px;
+}
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
